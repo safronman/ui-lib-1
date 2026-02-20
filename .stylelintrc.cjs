@@ -1,3 +1,3 @@
 module.exports = {
-    extends: '@it-incubator/stylelint-config',
+  extends: ['stylelint-config-standard-scss', 'stylelint-config-clean-order'],
 }
