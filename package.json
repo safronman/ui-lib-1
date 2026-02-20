@@ -1,7 +1,7 @@
 {
-  "name": "@ershisan99/live-demo-lib",
+  "name": "@safronman/ui-lib-1",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.1",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
